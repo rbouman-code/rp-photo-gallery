@@ -308,6 +308,10 @@
     "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image77.jpg"
   },
   {
+    "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image78.jpg",
+    "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image78.jpg"
+  },
+  {
     "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image79.jpg",
     "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image79.jpg"
   },
@@ -330,9 +334,5 @@
   {
     "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image84.jpg",
     "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image84.jpg"
-  },
-  {
-    "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image85.jpg",
-    "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image85.jpg"
   }
 ]
