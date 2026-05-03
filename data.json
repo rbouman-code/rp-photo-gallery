@@ -4,7 +4,7 @@
     "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image1.jpg",
     "description": {
         "ru": "Крит, луна Анселона, система Нарион\n9 мая 2330 г.\n\nЭто Васко, робот Баррета. Он притащил меня на Крит \"разобраться\" с главарем пиратов, которые преследуют \"Фронтир\". Я на это не подписывался.\n\nЯ просто биолог!\n\nЧертов артефакт. Чертов Баррет. Чертов Васко.",
-        "en": "Kreet, moon of Anselon, Narion system\nMay 9, 2330\n\nThis is Vasco, Barrett's robot. He dragged me to Kreet to \"deal\" with the pirate leader who's been chasing the Frontier. I never asked for any of this.\n\nI'm just a biologist!\n\nDamned Artifact. Damned Barrett. Damned Vasco."
+        "en": "Kreet, moon of Anselon, Narion System\nMay 9, 2330\n\nThis is Vasco, Barrett's robot. He dragged me to Kreet to \"deal\" with the pirate leader who's been chasing the Frontier. I never asked for any of this.\n\nI'm just a biologist!\n\nDamned Artifact. Damned Barrett. Damned Vasco."
     }
   },
   {
@@ -52,7 +52,7 @@
     "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image7.jpg",
     "description": {
         "ru": "Южный полюс Сумати, система Нарион.\n29 мая 2330 г.\n\nСкала позади нас похожа на застывший взрыв. Лёд под ней медленно тает.\n\nОстаток отступающего ледника. Ландшафт меняется быстрее, чем мы думаем.",
-        "en": "The southern pole of Sumati, Narion system.\nMay 29, 2330\n\nThe rock behind us looks like a frozen explosion. The ice beneath it is slowly turning into water.\n\nThis melting remnant of a retreating glacier indicates a rapidly changing landscape."
+        "en": "The southern pole of Sumati, Narion System.\nMay 29, 2330\n\nThe rock behind us looks like a frozen explosion. The ice beneath it is slowly turning into water.\n\nThis melting remnant of a retreating glacier indicates a rapidly changing landscape."
     }
   },
   {
@@ -60,7 +60,47 @@
     "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image8.jpg",
     "description": {
         "ru": "Сумати, биом хвойных лесов. Система Нарион.\n2 июня 2330 г.\n\nВысота травяного покрова местами достигает 1,2 м. Атмосфера метановая; необходим скафандр.\n\nЗабавно, как иногда старые фильмы всплывают в памяти в самые неожиданные моменты.",
-        "en": "Sumati, coniferous forest biome. Narion system.\nJune 2, 2330\n\nGrass height reaches up to 1.2 meters in some areas. Methane atmosphere; a suit is required.\n\nIt's funny how old movies sometimes resurface in your memory at the most unexpected moments."
+        "en": "Sumati, coniferous forest biome. Narion System.\nJune 2, 2330\n\nGrass height reaches up to 1.2 meters in some areas. Methane atmosphere; a suit is required.\n\nIt's funny how old movies sometimes resurface in your memory at the most unexpected moments."
+    }
+  },
+  {
+    "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image9.jpg",
+    "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image9.jpg",
+    "description": {
+        "ru": "Стадный костеспинный падальщик\n\nМестонахождение: Сумати, система Нарион\nДата: 2 июня 2330 г.\nМесто наблюдения: хвойный лес\nПищевая классификация: падальщик\nСоциальная структура: стайная; группы по 3–6 особей\nТемперамент: осторожный\nБиомы: лиственные леса, хвойные леса, горы\nИзвлекаемый ресурс: гиперкатализатор (из биологических жидкостей)\nПолевые наблюдения:\nКостеспинный падальщик демонстрирует защитный механизм при приближении угрозы. Вместо немедленного бегства группа начинает синхронную демонстрацию угрозы — своего рода \"танец\", призванный запугать хищника. В обычном состоянии существа не проявляют агрессии, однако модель поведения меняется при наличии доминантного альфы. В присутствии лидера стая может перейти к скоординированному нападению. Если угроза сохраняется, обычное стадо рассеивается, но ведомая альфой группа, скорее всего, вступит в бой для защиты своей территории.",
+        "en": "Herding Boneback Scavenger\n\nLocation: Sumati, Narion System\nDate: June 2, 2330\nObservation Site: Coniferous Forest\nDietary Classification: Scavenger\nSocial Structure: Gregarious; formations of 3–6 individuals\nTemperament: Wary\nBiomes: Deciduous Forest, Coniferous Forest, Mountains\nRecoverable Resource: Hypercatalyst (from Vital Fluids)\nField Observations:\nThe Boneback Scavenger exhibits a defensive mechanism when approached. Instead of immediate flight, the group initiates a synchronized threat display — a \"dance\" intended to intimidate perceived predators. While generally non-hostile, behavioral patterns shift if a dominant Alpha is present. In the presence of a pack leader, the herd may transition to coordinated aggression. If the threat persists, a standard herd will scatter, whereas an Alpha-led group is likely to engage in combat to defend its territory."
+    }
+  },
+  {
+    "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image10.jpg",
+    "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image10.jpg",
+    "description": {
+        "ru": "",
+        "en": ""
+    }
+  },
+  {
+    "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image11.jpg",
+    "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image11.jpg",
+    "description": {
+        "ru": "",
+        "en": ""
+    }
+  },
+  {
+    "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image12.jpg",
+    "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image12.jpg",
+    "description": {
+        "ru": "Сумати, океан. Система Нарион.\n5 июня 2330 г.\n\nПытаюсь выследить кронозавров. Мелководье с плотными зарослями водорослей - идеальное место для кормления.\n\nСара сделала это фото. Я заметил не сразу.\n\nРедкий момент тишины.",
+        "en": "Sumati, ocean. Narion System.\nJune 5, 2330\n\nAttempting to track Kronosaurus grazers. Water is shallow with dense algae growth. Prime feeding ground.\n\nSarah took the photo. I didn't notice until later.\n\nA rare moment of quiet."
+    }
+  },
+  {
+    "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image13.jpg",
+    "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image13.jpg",
+    "description": {
+        "ru": "Сумати, океан. Система Нарион.\n5 июня 2330 г.\n\nСара идёт вдоль берега. Наверное, высматривает тех же кронозавров. Или просто наслаждается видом.\n\nС ней иногда трудно понять наверняка.",
+        "en": "Sumati, ocean. Narion System.\nJune 5, 2330\n\nSarah is walking the shoreline. Probably looking for the same Kronosaurs. Or just enjoying the view.\n\nIt's hard to tell with her sometimes."
     }
   }
 ]
