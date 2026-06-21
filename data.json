@@ -150,5 +150,21 @@
             "ru": "Сумати, биом лиственных лесов. Система Нарион.\n27 июня 2330 г.\n\nРанний вечерний туман повис над оранжево-красной травой.\n\nЯ только что закончил собирать образцы с костеспинного падальщика. Работа не из приятных, но нужная. Забрался на камень, чтобы осмотреться. Сара сделала снимок.\n\nНе заметил, как застыл на месте.\n\nМожет, просто устал. А может, ради этого вида стоило замереть на мгновение.",
             "en": "Sumati, deciduous forest biome. Narion system.\nJune 27, 2330\n\nAn early evening mist hung above the orange-red grass.\n\nI'd just finished collecting samples from a Boneback Scavenger. Not a pleasant job, but a necessary one. Stepped up on a rock to get my bearings. Sarah took the shot.\n\nDidn't realize I was standing that still.\n\nMaybe I was just tired. Or maybe the view was worth a moment of quiet."
         }
+    },
+    {
+        "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image20.jpg",
+        "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image20.jpg",
+        "description": {
+            "ru": "Процион III, система Процион A.\n6 июля 2330 г.\n\nГигантская гравитационная аномалия. Храм? Вход, само строение, поднимающееся из снега.\n\nЯ не знаю, кто это построил. Я не знаю, зачем.\n\nНо стоя здесь и глядя, как лёд цепляется за камень, я почувствовал то, чего не чувствовал с момента находки первого артефакта.\n\nЭто не просто технология. Это не просто архитектура.\n\nЭто послание. Я просто не знаю, что оно пытается сказать.",
+            "en": "Procyon III, Procyon A system\nJuly 6, 2330\n\nA gigantic gravitational anomaly. A Temple? The entrance, the structure itself, rising out of the snow.\n\nI don't know who built it. I don't know why.\n\nBut standing here, watching the ice cling to the stone, I felt something I haven't felt since the first Artifact.\n\nThis isn't just technology. It's not just architecture.\n\nIt's a message. I just don't know what it's trying to say."
+        }
+    },
+    {
+        "src": "https://rbouman-code.github.io/rp-photo-gallery/images/image21.jpg",
+        "preview": "https://rbouman-code.github.io/rp-photo-gallery/images/preview/image21.jpg",
+        "description": {
+            "ru": "Процион III, система Процион A.\n6 июля 2330 г.\n\nВнутри Храма. Невесомость. Кольца выстроились, и Сара парила вокруг них, изучая символы и особенности.\n\nОна выглядела так, будто была здесь дома. Уж точно больше, чем я.",
+            "en": "Procyon III, Procyon A system\nJuly 6, 2330\n\nInside the Temple. Zero gravity. The rings aligned, and Sarah floated around them, studying the symbols and anomalies.\n\nShe looked like she belonged there. More than I did, anyway."
+        }
     }
 ]
